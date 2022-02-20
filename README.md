@@ -18,6 +18,7 @@ You can find detailed setup instructions is the video above.
 <br>
 <b>dependencies: </b> Pytorch, Torchvision, Panadas, TorchTensorRT
 <br>
+<br>
 In this notebook we will run inference with: CPU, CUDA and TensorRT and
 <br>
 compair their speed with a special benchmarking utility function.
@@ -29,6 +30,7 @@ use it to predict a never-before-seen picture of my cat.
 you can either use my picture (<b>img1.jpg</b>) or you can choose one
 <br>
 from your personal gallery (highly reccomended!)
+<br>
 <br>
 please feel free to use my code anywhere you'd like, no need to credit me!
 <br>
